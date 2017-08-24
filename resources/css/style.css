@@ -1,0 +1,28 @@
+Html {
+  background-color: black;
+  font-family: verdana;
+  text-align: center;
+}
+
+h1, h2 {
+  color: white;
+  text-align: center;
+}
+a {
+  color: aquamarine;
+  font-size: 16;
+}
+p {
+  color: gray;
+  font-size: 21;
+}
+#heading1 {
+  font-size: 50;
+}
+#heading2, #heading3 {
+  font-weight: 300;
+  font-size: 42
+}
+#footer {
+  text-align: right;
+}
